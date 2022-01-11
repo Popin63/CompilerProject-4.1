@@ -1,0 +1,107 @@
+******************************************
+------------Project Input:----------------
+
+#include<stdio.h>
+#include<stdlib.h>
+float func(int x))
+{
+int y;;
+for(y; x, ){} //loop
+return 1.5;
+}
+int main()
+{
+int a=1;
+if (c)
+a=2;
+else
+a=0;
+return 0;
+}
+
+
+
+
+------------End of Input:----------------
+
+******************************************
+
+
+
+******************************************************
+------------Project Output:----------------------------
+
+
+----------Source code with line number:-------------
+
+
+1.#include<stdio.h>
+2.#include<stdlib.h>
+3.float func(int x))
+4.{
+5.int y;;
+6.for(y; x, ){} //loop
+7.return 1.5;
+8.}
+9.int main()
+10.{
+11.int a=1;
+12.if (c)
+13.a=2;
+14.else
+15.a=0;
+16.return 0;
+17.}
+
+
+---------End Source code with line number:-----------
+
+
+---------Headers:--------------
+stdio.h
+stdlib.h
+---------End Headers:-------------
+
+
+
+--------Identifiers:-------------
+y
+a
+--------End Identifiers:---------
+
+
+
+----------Functions:-------------
+func
+main
+---------End Functions:--------------
+
+
+
+
+---------Keywords:---------------
+float
+int
+return
+int
+int
+if
+else
+return
+----------End Keywords:--------------
+
+
+
+----------Errors:------------------------------
+
+Misplaced parenthesis at line 3
+
+Declaration of for loop not correct at line 6
+
+----------End Errors:-------------------------
+
+
+
+------------End of Output:----------------
+
+******************************************
